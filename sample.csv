@@ -1,0 +1,15 @@
+Name,Short Code
+Accounting Manager,ACH
+Accounting User,ACS
+Customer,CS
+Ecommerce Customer,ECC
+Ecommerce Package Profile,SEP
+Inventory Manager,IVH
+Inventory User,IVS
+Purchasing Manager,PCH
+Purchasing User,PCS
+Sales Manager,SAH
+Sales User,SAS
+System Admin,SMA
+Testing,TST
+Website,WBT

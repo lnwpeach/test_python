@@ -1,0 +1,19 @@
+name,last,age,anime
+mashiro,shina,17,sakurasou
+asuna,yuki,17,sao
+kotori,minami,17,lovelive
+maki,nishikino,16,lovelive
+nanami,aoyama,17,sakurasou
+sora,kasugano,16,yns
+miyuki,shiba,16,mahouka
+f = open('02262016.py','r')
+f2 = open('ss2.csv','w+')
+wordlist = []
+for line in f:
+    wordlist.append(line)
+len_wordlist = len(wordlist)
+for i in range(len_wordlist):
+    f2.write(wordlist[i])
+f2 = open('aa.txt','r')
+print f2.read()
+f2.close()
