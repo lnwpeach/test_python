@@ -14,9 +14,9 @@ len_wl = len(wl)
 for i in range(len_wl):
     f3.write(wl[i])
 f2 = open('ss2.csv','r')
-print f2.read()
+print (f2.read())
 f2.close()
 f3 = open('ss3.csv','r')
-print f3.read()
+print (f3.read())
 f3.close()
 

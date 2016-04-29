@@ -10,5 +10,5 @@ for i in range(1,len_wordlist):
     if 's' in wordlist[i][0]:
         f2.write(wordlist[i][0]+','+wordlist[i][1])
 f2 = open('ss2.csv','r')
-print f2.read()
+print (f2.read())
 f2.close()

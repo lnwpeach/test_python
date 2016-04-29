@@ -1,12 +1,8 @@
-Name,Short Code
-Accounting User,ACS
-Customer,CS
-Ecommerce Customer,ECC
-Inventory User,IVS
-Purchasing Manager,PCH
-Purchasing User,PCS
-Sales Manager,SAH
-Sales User,SAS
-System Admin,SMA
-Testing,TST
-Website,WBT
+name,last,age,anime
+mashiro,shina,17,sakurasou
+asuna,yuki,17,sao
+kotori,minami,17,lovelive
+maki,nishikino,16,lovelive
+nanami,aoyama,17,sakurasou
+sora,kasugano,16,yns
+miyuki,shiba,16,mahouka

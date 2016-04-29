@@ -11,5 +11,5 @@ for i in range(5):
     f.write(str(i+1)+', ')
 f.close
 f = open(file,'r')
-print f.read()
+print (f.read())
 f.close()
